@@ -27,3 +27,4 @@
 * 設定された秒数を表示する
 * 秒数選択（10~60秒）
 
+![TimerSimulation](https://github.com/Natsukotochobi/MyTimer-Swift/assets/105856391/dfe21383-ca4e-478d-9830-9714ec91d3d5)

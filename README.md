@@ -27,4 +27,11 @@
 * 設定された秒数を表示する
 * 秒数選択（10~60秒）
 
-![TimerSimulation](https://github.com/Natsukotochobi/MyTimer-Swift/assets/105856391/dfe21383-ca4e-478d-9830-9714ec91d3d5)
+### 3. アラート画面
+
+* タイマー終了後に、終了ダイアログをポップアップする。
+
+---
+## アプリの動きについての動画
+
+![TimerSimulation1](https://github.com/Natsukotochobi/MyTimer-Swift/assets/105856391/90e5507c-5779-4eda-ae60-ee588cd418a5)
